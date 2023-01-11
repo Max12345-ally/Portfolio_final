@@ -13,11 +13,11 @@ export default class HTML extends React.Component {
           <link href="/img/favicon.ico" rel="icon" />
         </head>
         <body style={{ backgroundColor: '#000' }}>
-          <div
+          {/* <div
             id="___gatsby"
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
-          {this.props.postBodyComponents}
+          {this.props.postBodyComponents} */}
         </body>
       </html>
     )
