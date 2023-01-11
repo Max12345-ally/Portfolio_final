@@ -167,13 +167,13 @@ class HeroPersonal extends React.Component {
                             Hello, I'm
                         </SubHeading>
                         <Heading className="parallax-hero-item">
-                            <Glitch text="Max Bond" />
+                            <Glitch text="Max Bondar" />
                         </Heading>
                         <Type className="parallax-hero-item">
                             <Typewriter
                                 options={{
                                 strings: [
-                                    'Software Ingeneer',
+                                    'Software Engineer',
                                     'Frontend developer',
                                     
                                 ],
@@ -182,7 +182,7 @@ class HeroPersonal extends React.Component {
                                 }}
                             />
                         </Type>
-                        <Resume href="./">
+                        <Resume href="https://drive.google.com/file/d/1mDr1DNloy9S3SxGH9gNlu0dKJUOl7qHJ/view?usp=sharing">
                             Download Resume
                         </Resume>
                     </HeadingBox>

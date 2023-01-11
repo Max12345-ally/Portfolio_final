@@ -8,6 +8,8 @@ import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import AnimatedHeading from 'components/animated-heading'
 import AnimationContainer from 'components/animation-container'
+//import {projects} from './projects'
+
 
 class PortfolioThree extends React.Component {
 
@@ -107,7 +109,22 @@ class PortfolioThree extends React.Component {
           />
         )
       })
-    }
+
+    //   return projects.map((project, index) => {
+    //     return (
+    //       <PortfolioItem 
+    //         key={index}
+    //         index={index} 
+    //         image={project.image} 
+    //         text={project.text} 
+    //         category={project.category}
+    //         link={project.link}
+    //         type="slider"
+    //       />
+    //     )
+    //   })
+    // }
+  }
 }
 
 export default props => (

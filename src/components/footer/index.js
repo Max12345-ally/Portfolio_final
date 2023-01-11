@@ -29,10 +29,10 @@ class Footer extends React.Component{
         return (
             <FooterMain>
                 <SocialIcons>
-                    <FontAwesomeIcon icon={faGithub} className="social_icon" onClick={() => window.open('https://www.github.com')}/>
+                    <FontAwesomeIcon icon={faGithub} className="social_icon" onClick={() => window.open('https://github.com/Max12345-ally')}/>
                     
                     
-                    <FontAwesomeIcon icon={faLinkedin} className="social_icon" onClick={() => window.open('https://www.linkedin.com')} />
+                    <FontAwesomeIcon icon={faLinkedin} className="social_icon" onClick={() => window.open('https://www.linkedin.com/max-bondar-2659ab2')} />
                 </SocialIcons>
             </FooterMain>
         )

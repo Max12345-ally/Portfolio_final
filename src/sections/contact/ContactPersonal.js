@@ -152,7 +152,7 @@ class ContactPersonal extends React.Component {
                               </InfoTitle>
                               <InfoLinkContainer>
                                 <InfoLink href="mailto:email@yoursite.com">
-                                  email@yoursite.com
+                                  maxbondar0707@gmail.com
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>
@@ -171,7 +171,7 @@ class ContactPersonal extends React.Component {
                               </InfoTitle>
                               <InfoLinkContainer>
                                 <InfoLink href="tel:+(123)123-1234">
-                                  (123) 456-7890
+                                 +7(916) 521-0853
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>
@@ -190,7 +190,7 @@ class ContactPersonal extends React.Component {
                               </InfoTitle>
                               <InfoLinkContainer>
                                 <InfoLink target="_blank" href="https://maps.google.com/maps?ll=53.343244,-6.259338&z=14&t=m&hl=en&gl=US&mapclient=embed&q=1%20Grafton%20Street%20Dublin%20Ireland">
-                                  1 Grafton Street Dublin Ireland
+                                  remote
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>

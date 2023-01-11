@@ -1,7 +1,7 @@
 ---
 id: 3
-image: './image.jpg'
-title: "Angular Project"
-category: "Angular.js"
-link: "https://github.com"
+image: './3_PersonalPage.png'
+title: "FullStack(MERN), FireBase"
+category: "Web Development"
+link: "https://project4-frontend.vercel.app/"
 ---
