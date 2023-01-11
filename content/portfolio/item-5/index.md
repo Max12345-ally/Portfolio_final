@@ -1,7 +1,7 @@
 ---
 id: 5
 image: './image.jpg'
-title: "333"
-category: "UI/UX Design"
+title: ""
+category: ""
 link: "https://github.com"
 ---
